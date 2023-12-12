@@ -38,7 +38,7 @@
   "dependencies": {
     "@modulz/radix-icons": "^4.0.0",
     "react-quill": "2.0.0-beta.4",
-    "quill-mention": "^3.0.8"
+    "quill-mention": "^4.0.0"
   },
   "devDependencies": {}
 }
